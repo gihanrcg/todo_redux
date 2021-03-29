@@ -1,0 +1,19 @@
+input[type="checkbox"] {
+  transform: scale(1.2);
+}
+.close-button{
+    border-radius: 50%;
+    color:white;
+    background-color:red;
+    float : right;
+    cursor:pointer;
+    padding:5px 8px;
+}
+
+.card{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.row{
+    height: 100%;
+}
